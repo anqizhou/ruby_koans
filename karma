@@ -1,0 +1,1 @@
+watch('about_.*\.rb') { system("clear"); system('rake') }
